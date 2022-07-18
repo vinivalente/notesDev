@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "devsNotes",
+    "slug": "devsNotes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
